@@ -1,4 +1,4 @@
-# ISF Club Website Contribution Guide 🌟
+# ISF Website Contribution Guide 🌟
 
 Hey there Future opensource Superstar! 👋 We're thrilled that you want to be a part of creating the ISF's website. Don't worry if you're new to this, we're here to guide you every step of the way! 🚀
 
