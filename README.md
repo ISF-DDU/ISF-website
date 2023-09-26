@@ -8,11 +8,12 @@ The Institution of Electronics and Telecommunication Engineers (IETE), founded i
 
 ## Technology Stack
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/32px-React-icon.svg.png" alt="React">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/32px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/32px-HTML5_logo_and_wordmark.svg.png" alt="HTML">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/32px-CSS3_logo_and_wordmark.svg.png" alt="CSS">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="64px">
+  <img src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" alt="Express.js" width="64px">
+  <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="MongoDB" width="64px">
+  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" alt="Node.js" width="64px">
 </p>
+
 
 ## Content Stack
 
