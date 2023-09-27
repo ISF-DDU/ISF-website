@@ -20,7 +20,7 @@ function App() {
           <Route exact path="/gallery" element={<Gallery />} />
           <Route exact path="/contact" element={<Contact />} />
         </Routes>
-
+        
       </div>
     </>
   );
