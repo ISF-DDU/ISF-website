@@ -1,0 +1,25 @@
+{
+   "coreteam" : [
+      {
+      "name" : "mihir hadavani",
+      "position" : "web development head",
+      "github" : "https://github.com/mihirh19",
+      "image" : "https://drive.google.com/file/d/1WG4B6pouu-C_w67nanaa0c1gjYWOTBpi/view?usp=drive_link",
+      "desc" : ""
+      },
+      {
+         "name" : "nisarg pipaliya",
+         "position" : "PRESIDENT",
+         "github" : "https://github.com/NisargPipaliya",
+         "image" : "",
+         "desc" : ""
+      },
+      {
+         "name" : "kevin sangani",
+         "position" : "vice president",
+         "github" : "https://github.com/Kevin0403",
+         "image" : "https://drive.google.com/file/d/1GmS5shV7LbSPhNzyNTw0GH5eyg5mh4JH/view?usp=drive_link",
+         "desc" : ""
+      }
+   ]
+}

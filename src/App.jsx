@@ -1,11 +1,12 @@
-import { Route, Router, Routes, } from "react-router-dom";
+import { Route, Routes, } from "react-router-dom";
 import Navbar from "./components/Navbar";
-import Home from "./components/Home";
-import About from "./components/About";
-import Events from "./components/Events";
-import Team from "./components/Team";
-import Gallery from "./components/Gallery";
-import Contact from "./components/Contact";
+import Home from "./pages/Home";
+import About from "./pages/About";
+import Events from "./pages/Events";
+import Team from "./pages/Team";
+import Gallery from "./pages/Gallery";
+import Contact from "./pages/Contact";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -20,7 +21,7 @@ function App() {
           <Route exact path="/gallery" element={<Gallery />} />
           <Route exact path="/contact" element={<Contact />} />
         </Routes>
-
+        <Footer />
       </div>
     </>
   );
