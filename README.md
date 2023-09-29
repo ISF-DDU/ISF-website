@@ -1,17 +1,17 @@
-# IETE ISF Website 🚀
+# ISF Website 🚀
 
-Welcome to the IETE ISF (Institution of Electronics and Telecommunication Engineers - IETE Students Forum) Website project! This project serves as the foundation for our website built with React.
+Welcome to the ISF (Institution of Electronics and Telecommunication Engineers (IETE) Students Forum) Website project! This project serves as the foundation for our website built with React.
 
-## About IETE ISF
+## About ISF
 
 The Institution of Electronics and Telecommunication Engineers (IETE), founded in 1953, is one of the leading Professional Societies in India. With a vision for the advancement of Science and Technology in the fields of Electronics, Communication Engineering, Computer Science, Information Technology, and related subjects, IETE has been a guiding light in the industry.
 
 ## Technology Stack
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="64px">
-  <img src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" alt="Express.js" width="64px">
-  <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="MongoDB" width="64px">
-  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" alt="Node.js" width="64px">
+<!--   <img src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" alt="Express.js" width="64px"> -->
+<!--   <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="MongoDB" width="64px"> -->
+<!--   <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" alt="Node.js" width="64px"> -->
 </p>
 
 
