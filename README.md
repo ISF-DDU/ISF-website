@@ -9,9 +9,9 @@ The Institution of Electronics and Telecommunication Engineers (IETE), founded i
 ## Technology Stack
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="64px">
-<!--   <img src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" alt="Express.js" width="64px"> -->
-<!--   <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="MongoDB" width="64px"> -->
-<!--   <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" alt="Node.js" width="64px"> -->
+  <img src="https://o.remove.bg/downloads/f9499c5e-7581-4dc2-9e12-12c4ad08a831/png-transparent-logo-html-html5-removebg-preview.png" alt="React" width="64px">
+  <img src="https://o.remove.bg/downloads/bb85dd6d-159b-41b8-9542-2fa9f42fa0b7/png-transparent-tailwind-css-css-framework-customizable-low-level-tailwind-logo-3d-icon-removebg-preview.png" alt="React" width="64px">
+  
 </p>
 
 
