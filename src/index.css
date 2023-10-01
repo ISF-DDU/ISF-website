@@ -5,3 +5,13 @@
 .active{
     @apply text-white before:absolute before:rounded-full before:-bottom-1 before:w-8 before:h-1 before:bg-white
 }
+.fade-in-section {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+}
+
+.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
