@@ -1,15 +1,15 @@
 import React from 'react'
-import { NavLink } from 'react-router-dom'
+import { NavLink,Link } from 'react-router-dom'
 
 const Navbar = () => {
    return (
       <header className="bg-gray-900 sticky">
          <nav className="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-6" aria-label="Global">
             <div className="flex lg:flex-1">
-               <NavLink to="/" className="-m-1.5 p-1.5">
+               <Link to="/" className="-m-1.5 p-1.5">
                   <span className="sr-only">IETE-DDU</span>
                   <img className="h-10 w-auto rounded-full" src="/isf.jpg" alt="" />
-               </NavLink>
+               </Link>
             </div>
             <div className="flex lg:hidden">
                <button type="button" className="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-gray-700">
@@ -19,24 +19,24 @@ const Navbar = () => {
                   </svg>
                </button>
             </div>
-            <div className="hidden lg:flex lg:gap-x-12">
+            <div className="hidden lg:flex lg:gap-x-12 relative">
 
 
-               <NavLink to="/" className="text-sm font-semibold leading-6 text-white hover:bg-gray-600">Home</NavLink>
-               <NavLink to="/about" className="text-sm font-semibold leading-6 text-white hover:bg-gray-600">About</NavLink>
-               <NavLink to="/events" className="text-sm font-semibold leading-6 text-white hover:bg-gray-600">Events</NavLink>
-               <NavLink to="/team" className="text-sm font-semibold leading-6 text-white hover:bg-gray-600">Team</NavLink>
-               <NavLink to="/gallery" className="text-sm font-semibold leading-6 text-white hover:bg-gray-600">Gallery</NavLink>
-               <NavLink to="/contact" className="text-sm font-semibold leading-6 text-white hover:bg-gray-600">Contact</NavLink>
+               <NavLink to="/" className="text-sm font-semibold leading-6 text-gray-400 hover:text-white transition duration-300 ease-out">Home</NavLink>
+               <NavLink to="/about" className="text-sm font-semibold leading-6 text-gray-400 hover:text-white transition duration-300 ease-out">About</NavLink>
+               <NavLink to="/events" className="text-sm font-semibold leading-6 text-gray-400 hover:text-white transition duration-300 ease-out">Events</NavLink>
+               <NavLink to="/team" className="text-sm font-semibold leading-6 text-gray-400 hover:text-white transition duration-300 ease-out">Team</NavLink>
+               <NavLink to="/gallery" className="text-sm font-semibold leading-6 text-gray-400 hover:text-white transition duration-300 ease-out">Gallery</NavLink>
+               <NavLink to="/contact" className="text-sm font-semibold leading-6 text-gray-400 hover:text-white transition duration-300 ease-out">Contact</NavLink>
             </div>
-            <div className="hidden lg:flex lg:flex-1 lg:justify-end">
+            {/* <div className="hidden lg:flex lg:flex-1 lg:justify-end">
 
-            </div>
+            </div> */}
          </nav>
          <div className="lg:hidden" role="dialog" aria-modal="true">
 
             <div className="fixed inset-0 z-10"></div>
-            <div className="fixed inset-y-0 right-0 z-10 w-full overflow-y-auto bg-gray-900 px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
+            <div className="fixed inset-y-0 right-0 z-10 w-full  bg-gray-900 px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10 over">
                <div className="flex items-center justify-between">
                   <NavLink href="#" className="-m-1.5 p-1.5">
                      <span className="sr-only">IETE-DDU</span>
