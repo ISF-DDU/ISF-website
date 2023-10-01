@@ -2,3 +2,6 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
+.active{
+    @apply text-white before:absolute before:rounded-full before:-bottom-1 before:w-8 before:h-1 before:bg-white
+}
