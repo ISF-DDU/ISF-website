@@ -1,5 +1,5 @@
 import { Route, Routes, } from "react-router-dom";
-import Navbar from "./components/Navbar";
+import Navbar1 from "./components/Navbar";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Events from "./pages/Events";
@@ -12,7 +12,7 @@ function App() {
   return (
     <>
       <div>
-        <Navbar />
+        <Navbar1 />
         <Routes>
           <Route exact path="/" element={<Home />} />
           <Route exact path="/about" element={<About />} />
