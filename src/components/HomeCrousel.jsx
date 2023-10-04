@@ -7,18 +7,24 @@ import homecrousel2 from '../images/homecrousel_2.jpg'
 import homecrousel3 from '../images/homecrousel_3.jpg'
 import homecrousel4 from '../images/homecrousel_4.jpg'
 const HomeCrousel = () => {
+   const carouselStyle = {
+      maxWidth: '700px',
+      margin: '0 auto', 
+    };
    return (
+      <div style={carouselStyle}>
       <Carousel autoPlay={true} dynamicHeight={true} swipeable={true} showArrows={true} animationHandler={'slide'}>
          <div >
             <img src={homecrousel1} alt="" />
          </div>
          <div>
-            <img src={homecrousel3} alt="" />
+            <img src={homecrousel3} alt=""/>
          </div>
          <div>
-            <img src={homecrousel4} alt="" />
+            <img src={homecrousel4} alt=""/>
          </div>
       </Carousel>
+      </div>
 
    )
 }
