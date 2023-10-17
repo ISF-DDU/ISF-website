@@ -47,7 +47,7 @@ const HomeCarousel = ({ startAutoplay }) => {
             dynamicHeight={true}
             swipeable={true}
             showArrows={true}
-            animationHandler={'slide'}
+            animationHandler={'fade'}
             infiniteLoop={true}
          >
             <div>
