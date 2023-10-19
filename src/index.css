@@ -73,3 +73,21 @@
 .menu-btn:checked~.menu-icon .navicon::after {
   top: 0;
 }
+/* media */
+@media(max-width:1200px) {
+  .mission .right p {
+    font-size: .8rem;
+    margin: 20px auto;
+  }
+
+  .about .left p {
+    font-size: .8rem;
+    margin: 20px auto;
+  }
+}
+
+@media (max-width:992px) {
+  .about-left, .about-right, .mission-right, .mission-left {
+    width: 100%;
+  }
+}
