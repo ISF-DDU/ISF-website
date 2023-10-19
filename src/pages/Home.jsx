@@ -47,13 +47,13 @@ const Home = () => {
 
             <FadeInComponent delay={300}>
               <div className="max-w-4xl mx-auto lg:flex lg:gap-4 p-3">
-              <div className="h-48 lg:h-auto lg:w-[50%] flex-none flex items-center justify-center bg-cover">
-                    <img
-                      src={coreteam}
-                      className="h-full lg:w-[100%] sm:w-[50%] rounded-md "
-                      alt="core-team"
-                    />
-                  </div>
+                <div className="h-48 lg:h-auto lg:w-[50%] flex-none flex items-center justify-center bg-cover">
+                  <img
+                    src={coreteam}
+                    className="h-full lg:w-[100%] sm:w-[50%] rounded-md "
+                    alt="core-team"
+                  />
+                </div>
                 <div className="p-4 flex flex-col justify-between leading-normal lg:w-[60%]">
                   <div className="mb-8 lg:flex lg:flex-col lg:gap-5 lg:justify-center lg:items-center">
                     <h1 className="text-3xl lg:text-5xl text-blue-900 font-bold">
