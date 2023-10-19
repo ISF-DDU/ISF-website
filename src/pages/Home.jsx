@@ -84,7 +84,7 @@ const Home = () => {
             </FadeInComponent>
 
             <FadeInComponent delay={300}>
-              <HomeCrousel />
+            <HomeCrousel startAutoplay={true} delay={200}/>
             </FadeInComponent>
           </div>
         </div>
